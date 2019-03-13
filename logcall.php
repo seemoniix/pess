@@ -88,7 +88,7 @@ $incidenttype[$row['incidentTypeId']] = $row['incidentTypeDesc'];
 
 mysql_close($con);
 
-echo "simon"
+// simon
 ?>
 
 <div class="form-container">
